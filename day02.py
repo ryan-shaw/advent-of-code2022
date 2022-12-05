@@ -32,15 +32,6 @@ def part2():
     
     return sum(list(calc()))
 
-# print(parse_data())
 
 part1()
 part2()
-
-# # part2
-# @timer
-# def part2():
-    
-
-# part1()
-# part2()
